@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichailNonProgramer&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=MichailNonProgramer&include_forks=true&custom_title=Most%20Used%20Languages&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=MichailNonProgramer&langs_count=10&include_forks=true&custom_title=Most%20Used%20Languages&layout=compact&theme=dark)
